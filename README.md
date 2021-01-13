@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i like to work on any technology or language's, nice to meet you 👋
 
 <!--
 **mdrokz/mdrokz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning <img src="http://www.rust-lang.org/logos/rust-logo-blk.svg"/>
+
+📫 How to reach me: 
