@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
-<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/discord.png" />
+<img alt="discord idea" width="26px" src="https://img.icons8.com/color/240/000000/discord.png" />
 </code>](https://discordapp.com/)
 [<code>
 <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
@@ -108,8 +108,8 @@ Here are some ideas to get you started:
 <img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </code>](https://ubuntu.com/)
 [<code>
-<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
-</code>](https://developer.apple.com/macos/)
+<img alt="golang" width="26px" src="https://img.icons8.com/color/48/000000/golang.png">
+</code>](https://golang.org/)
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
