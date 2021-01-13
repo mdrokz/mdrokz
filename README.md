@@ -128,4 +128,3 @@ Here are some ideas to get you started:
 
 [stackoverflow]: https://stackoverflow.com/users/2861177/mdrokz
 [gmail]: mailto:mdrokz18@gmail.com
-[discord]: 
