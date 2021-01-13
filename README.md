@@ -21,3 +21,11 @@ Here are some ideas to get you started:
 <strong style="
     color:  #7289da;
 ">md#9742</strong> <strong>||</strong> <img width="32" height="32" src="https://simpleicons.org/icons/gmail.svg"/> <strong>mdrokz18@gmail.com</strong>
+
+
+<a href="https://github.com/mdrokz">
+<img align="center" alt="mdrokz's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mdrokz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+<a href="https://github.com/mdrokz">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mdrokz&layout=compact&theme=radical" />
+</a>
