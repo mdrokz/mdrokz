@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>🌱 I’m currently learning <strong>Rust</strong> <img width="12" height="12" src="https://simpleicons.org/icons/rust.svg"/></div>
+<div>🌱 I’m currently learning <strong>Rust</strong> <img width="20" height="20" src="https://simpleicons.org/icons/rust.svg"/></div>
 
 📫 How to reach me: <img width="32" height="32" src="https://simpleicons.org/icons/discord.svg"/> 
 <strong style="
