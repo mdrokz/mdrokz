@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 <div>🌱 I’m currently learning <img width="32" height="32" src="https://simpleicons.org/icons/rust.svg"/></div>
 
 📫 How to reach me: <img width="32" height="32" src="https://simpleicons.org/icons/discord.svg"/> 
-<strong style="color: #7289da">md#9742</strong> <strong>||</strong> <img width="32" height="32" src="https://simpleicons.org/icons/gmail.svg"/> <strong>mdrokz18@gmail.com</strong>
+<strong style="
+    color:  #7289da;
+">md#9742</strong> <strong>||</strong> <img width="32" height="32" src="https://simpleicons.org/icons/gmail.svg"/> <strong>mdrokz18@gmail.com</strong>
