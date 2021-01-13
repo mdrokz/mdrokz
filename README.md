@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 <p>I’m currently learning <img width="32" height="32" src="http://www.rust-lang.org/logos/rust-logo-blk.svg"/></p>
+<div>🌱 I’m currently learning <img width="32" height="32" src="http://www.rust-lang.org/logos/rust-logo-blk.svg"/></div>
 
 📫 How to reach me: 
