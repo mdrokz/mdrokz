@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 <img alt="discord idea" width="26px" src="https://img.icons8.com/color/240/000000/discord.png" />
 </code>](https://discordapp.com/)
 [<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
-</code>](https://www.jetbrains.com/pycharm/)
+<img alt="bash" width="26px" src="https://img.icons8.com/plasticine/100/000000/bash.png" />
+</code>](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29)
 [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
