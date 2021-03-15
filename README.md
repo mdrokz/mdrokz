@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdrokz&theme=darkhubo-bg=true
+" alt="advaithm" /></a> </p>
+
 <div>🌱 I’m currently learning <strong>Rust</strong> <img width="20" height="20" src="https://simpleicons.org/icons/rust.svg"/></div>
 
 📫 How to reach me: <img width="32" height="32" src="https://simpleicons.org/icons/discord.svg"/> 
