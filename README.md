@@ -115,10 +115,9 @@ Here are some ideas to get you started:
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
----
 
 <a href="https://github.com/mdrokz">
-<img align="center" alt="mdrokz's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mdrokz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="center" alt="mdrokz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdrokz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
 <a href="https://github.com/mdrokz">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mdrokz&layout=compact&theme=radical" />
