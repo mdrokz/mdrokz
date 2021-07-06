@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <div>🌱 I’m currently learning <strong>Rust</strong> <img width="20" height="20" src="https://simpleicons.org/icons/rust.svg"/></div>
 
+<div>🔭 I’m currently maintaining https://github.com/atroche/rust-headless-chrome</div>
+
 📫 How to reach me: <img width="32" height="32" src="https://simpleicons.org/icons/discord.svg"/> 
 <strong style="
     color:  #7289da;
