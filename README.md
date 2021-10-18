@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="Sabesan | Gmail" height="22px" src="https://simpleicons.org/icons/gmail.svg" />][gmail]
-<img align="left" alt="Sabesan | Discord" height="22px" src="https://simpleicons.org/icons/discord.svg" />
-[<img align="left" alt="Sabesan | Stackoverflow" height="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="mdrokz | Gmail" height="22px" src="https://simpleicons.org/icons/gmail.svg" />][gmail]
+[<img align="left" alt="mdrokz | Stackoverflow" height="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][stackoverflow]
+
+![Discord](https://discord.c99.nl/widget/theme-1/248186636381192193.png)
 
 <br />
 
