@@ -67,6 +67,9 @@ Here are some ideas to get you started:
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
+<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
+</code>](https://www.lua.org/about.html)    
+[<code>
 <img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)
 [<code>
