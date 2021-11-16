@@ -61,8 +61,10 @@ Here are some ideas to get you started:
 <img alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
 </code>](https://www.electronjs.org)    
 [<code>
+<img alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+</code>](https://angular.io)
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
+</code>](https://reactnative.dev)
 [<code>
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>](https://docs.oracle.com/en/java/)
