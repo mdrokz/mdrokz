@@ -49,6 +49,9 @@ Here are some ideas to get you started:
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
+<img alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+</code>](https://developer.android.com)
+[<code>
 <img alt="discord idea" width="26px" src="https://img.icons8.com/color/240/000000/discord.png" />
 </code>](https://discordapp.com/)
 [<code>
@@ -60,7 +63,7 @@ Here are some ideas to get you started:
 [<code>
 <img alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
 </code>](https://www.electronjs.org)    
-[<code>
+[<code>    
 <img alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 </code>](https://angular.io)
 [<code>    
