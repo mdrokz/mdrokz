@@ -132,6 +132,9 @@ Here are some ideas to get you started:
 <img alt="golang" width="26px" src="https://img.icons8.com/color/48/000000/golang.png">
 </code>](https://golang.org/)
 [<code>
+    <img alt="arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"/>
+</code>](https://www.arduino.cc)    
+[<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
