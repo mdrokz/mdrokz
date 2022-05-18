@@ -62,7 +62,9 @@ Here are some ideas to get you started:
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
 <img alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
-</code>](https://www.electronjs.org)    
+</code>](https://www.electronjs.org)
+[<img alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+</code>](https://flutter.dev)    
 [<code>    
 <img alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 </code>](https://angular.io)
