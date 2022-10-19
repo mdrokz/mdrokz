@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <img alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 </code>](https://www.docker.com)
 [<code>
-<img alt="discord idea" width="26px" src="https://img.icons8.com/color/240/000000/discord.png" />
+<img alt="discord" width="26px" src="https://img.icons8.com/color/240/000000/discord.png" />
 </code>](https://discordapp.com/)
 [<code>
 <img alt="bash" width="26px" src="https://img.icons8.com/plasticine/100/000000/bash.png" />
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
-<img alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
+<img alt="electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
 </code>](https://www.electronjs.org)
 [<img alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 </code>](https://flutter.dev)    
@@ -117,6 +117,9 @@ Here are some ideas to get you started:
 [<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
+[<code>  
+<img alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+</code>](https://www.postgresql.org)
 [<code>  
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
