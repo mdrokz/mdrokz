@@ -55,7 +55,10 @@ Here are some ideas to get you started:
 <img alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 </code>](https://developer.android.com)
 [<code>
-<img alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+</code>](https://aws.amazon.com)
+[<code>
+<img alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 </code>](https://www.docker.com)
 [<code>
 <img alt="discord idea" width="26px" src="https://img.icons8.com/color/240/000000/discord.png" />
