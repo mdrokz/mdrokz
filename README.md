@@ -45,125 +45,304 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="haxe" width="26px" src="https://yal.cc/wp-content/uploads/2013/03/haxe.png" />
-</code>](https://haxe.org)    
-[<code>
-<img alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-</code>](https://developer.android.com)
-[<code>
-<img alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-</code>](https://aws.amazon.com)
-[<code>
-<img alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-</code>](https://www.docker.com)
-[<code>
-<img alt="vagrant" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" />
-</code>](https://www.vagrantup.com)
-[<code>
-<img alt="discord" width="26px" src="https://img.icons8.com/color/240/000000/discord.png" />
-</code>](https://discordapp.com/)
-[<code>
-<img alt="bash" width="26px" src="https://img.icons8.com/plasticine/100/000000/bash.png" />
-</code>](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
-</code>](https://www.electronjs.org)
-[<img alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-</code>](https://flutter.dev)    
-[<code>    
-<img alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-</code>](https://angular.io)
-[<code>    
-<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactnative.dev)
-[<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
-<img alt="dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-</code>](https://dart.dev) 
-[<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
-</code>](https://www.lua.org/about.html)    
-[<code>
-<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
-</code>](https://www.typescriptlang.org/)
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
-[<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-[<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
-</code>](https://www.rust-lang.org)
-[<code>
-<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</code>](https://eslint.org/)
-<br/>
-[<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>  
-<img alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
-</code>](https://www.postgresql.org)
-[<code>  
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
-<img alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
-</code>](https://dotnet.microsoft.com/languages/csharp)
-[<code>
-<img alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>
-</code>](https://www.iso.org/standard/74528.html) 
-[<code>
-<img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
-</code>](https://www.latex-project.org/)
-[<code>
-<img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
-</code>](https://www.markdownguide.org/)
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
-<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
-<br />
-[<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
-[<code>
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)
-[<code>
-<img alt="golang" width="26px" src="https://img.icons8.com/color/48/000000/golang.png">
-</code>](https://golang.org/)
-[<code>
-    <img alt="arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"/>
-</code>](https://www.arduino.cc)    
-[<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
-
+<table>
+<tr>
+<td>
+<a href="https://code.visualstudio.com/">
+    <img style="width: 26px;
+    height: 26px;
+    text-decoration: none;" alt="visual studio code" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+  </a>
+  </td>
+  <td>
+  <a href="https://haxe.org">
+    <img style="width: 26px;
+    height: 26px;
+    text-decoration: none;" alt="haxe" src="https://yal.cc/wp-content/uploads/2013/03/haxe.png" />
+  </a>
+  </td>
+  <td>
+  <a href="https://developer.android.com">
+    <img style="width: 26px;
+    height: 26px;
+    text-decoration: none;" alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+  </a>
+  </td>
+  <td>
+  <a href="https://aws.amazon.com">
+    <img style="width: 26px;
+    height: 26px;
+    text-decoration: none;" alt="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+  </a>
+  </td>
+  <td>
+  <a href="https://www.docker.com">
+    <img style="width: 26px;
+    height: 26px;
+    text-decoration: none;" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+  </a>
+  </td>
+</tr>
+<tr>
+<td>
+<a href="https://www.vagrantup.com">
+    <img style="width: 26px;
+    height: 26px;
+    text-decoration: none;" alt="vagrant" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" />
+  </a>
+  </td>
+  <td>
+  <a href="https://discordapp.com/">
+    <img style="width: 26px;
+    height: 26px;
+    text-decoration: none;" alt="discord" src="https://img.icons8.com/color/240/000000/discord.png" />
+  </a>
+  </td>
+  <td>
+  <a href="https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29">
+    <img style="width: 26px;
+    height: 26px;
+    text-decoration: none;" alt="bash" src="https://img.icons8.com/plasticine/100/000000/bash.png" />
+  </a>
+  </td>
+  <td>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img style="width: 26px;
+    height: 26px;
+    text-decoration: none;" alt="javascript" src="https://img.icons8.com/color/240/000000/javascript.png"/>
+  <a/>
+  </td>
+  <td>
+<a href="https://www.electronjs.org">
+<img style="width: 26px;
+    height: 26px;
+    text-decoration: none;" alt="electron" src="https://www.electronjs.org/assets/img/logo.svg" />
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://flutter.dev">
+<img style="width: 26px;
+    height: 26px;
+    text-decoration: none;" alt="flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+</a>
+</td> 
+<td>
+<a href="https://angular.io">  
+<img style="width: 26px;
+    height: 26px;
+    text-decoration: none;" alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+</a>
+</td>
+<td>
+<a href="https://reactnative.dev">
+<img style="width: 26px;
+    height: 26px;
+    text-decoration: none;" alt="react" src="https://img.icons8.com/color/240/000000/react-native.png" />
+</a>
+</td>
+<td>
+<a href="https://docs.oracle.com/en/java/">
+<img style="width: 26px;
+    height: 26px;
+    text-decoration: none;" alt="java" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+</a>
+</td>
+<td>
+<a href="https://dart.dev">
+<img style="width: 26px;
+    height: 26px;
+    text-decoration: none;" alt="dart"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+    <a href="https://www.python.org/">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="python" src="https://img.icons8.com/color/240/000000/python.png">
+    </a>
+</td>
+<td>
+    <a href="https://www.lua.org/about.html">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="json" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
+    </a>
+</td>
+<td>
+    <a href="https://www.typescriptlang.org/">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="typescript" src="https://img.icons8.com/color/240/000000/typescript.png">
+    </a>
+</td>
+<td>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="html5" src="https://img.icons8.com/color/240/000000/html-5.png">
+    </a>
+</td>
+<td>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="css3" src="https://img.icons8.com/color/240/000000/css3.png">
+    </a>
+</td>
+</tr>
+<tr>
+<td>
+    <a href="https://sass-lang.com/">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="sass" src="https://img.icons8.com/color/240/000000/sass.png">
+    </a>
+</td>
+<td>
+    <a href="https://www.json.org/json-en.html">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="json" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
+    </a>
+</td>
+<td>
+    <a class="https://www.rust-lang.org">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="json" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
+    </a>
+</td>
+<td>
+    <a href="https://eslint.org/">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="eslint" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
+    </a>
+</td>
+<td>
+    <a href="https://nodejs.org/en/">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="Node.js" src="https://img.icons8.com/color/240/000000/nodejs.png">
+    </a>
+</td>
+</tr>
+<tr>
+<td>
+    <a href="https://www.postgresql.org">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="Postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+    </a>
+</td>
+<td>
+    <a href="https://dev.mysql.com/">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+    </a>
+</td>
+<td>
+    <a href="https://dotnet.microsoft.com/languages/csharp">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
+    </a>
+</td>
+<td>
+    <a href="https://www.iso.org/standard/74528.html">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="C" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>
+    </a>
+</td>
+<td>
+    <a href="https://www.latex-project.org/">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="latex" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
+    </a>
+</td>
+</tr>
+<tr>
+<td>
+    <a href="https://www.markdownguide.org/">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="markdown" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
+    </a>
+</td>
+<td>
+    <a href="https://git-scm.com/">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="Git" src="https://img.icons8.com/color/240/000000/git.png">
+    </a>
+</td>
+<td>
+    <a href="https://github.com/">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="github" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+    </a>
+</td>
+<td>
+    <a href="https://docs.microsoft.com/en-us/windows/terminal/">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+    </a>
+</td>
+<td>
+    <a href="https://www.microsoft.com/en-us/windows">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="windows" src="https://img.icons8.com/color/240/000000/windows-10.png">
+    </a>
+</td>
+</tr>
+<tr>
+<td>
+    <a href="https://ubuntu.com/">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="ubuntu" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
+    </a>
+</td>
+<td>
+    <a href="https://golang.org/">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="golang" src="https://img.icons8.com/color/48/000000/golang.png">
+    </a>
+</td>
+<td>
+    <a href="https://www.arduino.cc">
+        <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="arduino"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"/>
+    </a>
+</td> 
+<td>
+    <a href="https://www.kernel.org/">
+    <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="linux" src="https://img.icons8.com/color/96/000000/linux.png">
+    </a>
+</td>
+    <td>
+    <a href="https://kotlinlang.org">
+        <img style="width: 26px;
+        height: 26px;
+        text-decoration: none;" alt="kotlin"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>
+    </a>
+</td> 
+</tr>
+</table>
 
 <a href="https://github.com/mdrokz">
 <img align="center" alt="mdrokz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdrokz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
