@@ -21,18 +21,14 @@ Here are some ideas to get you started:
 
 <div>⚡My gists - https://gist.github.com/mdrokz
 
-📫 How to reach me: <img width="32" height="32" src="https://simpleicons.org/icons/discord.svg"/> 
-<strong style="
-    color:  #7289da;
-">md#9742</strong> <strong>||</strong> <img width="32" height="32" src="https://simpleicons.org/icons/gmail.svg"/> <a href="mailto: github.md12@gmail.com">mdrokz</a>
-
+<div>💬 Ask me about Rust,Reverse Engineering,Game Development & DevOps</div>
+    
+<div>👯 I’m looking to collaborate on Game Jams,Open Source Projects & etc.</div>
+    
+    
 ---
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-
-[<img align="left" alt="mdrokz | Gmail" height="22px" src="https://simpleicons.org/icons/gmail.svg" />][gmail]
-[<img align="left" alt="mdrokz | Stackoverflow" height="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][stackoverflow]
-
 ![Discord](https://discord.c99.nl/widget/theme-1/248186636381192193.png)
 
 <br />
