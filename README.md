@@ -1,4 +1,4 @@
-### Hi there i like to work on any technology or language's, nice to meet you 👋
+### Hey there im mdrokz! im a full stack software engineer based in MP, India 👋
 
 <!--
 **mdrokz/mdrokz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -340,6 +340,10 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
+
+
+#### Github Stats: 
+
 <a href="https://github.com/mdrokz">
 <img align="center" alt="mdrokz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdrokz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
@@ -348,6 +352,9 @@ Here are some ideas to get you started:
 </a>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
 
 [stackoverflow]: https://stackoverflow.com/users/2861177/mdrokz
 [gmail]: mailto:mdrokz18@gmail.com
