@@ -25,7 +25,6 @@ Here are some ideas to get you started:
     
 <div>👯 I’m looking to collaborate on Game Jams,Open Source Projects & etc.</div>
     
-    
 ---
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
@@ -338,9 +337,8 @@ Here are some ideas to get you started:
     </a>
 </td> 
 </tr>
+<a href="https://app.daily.dev/mdrokz"><img src="https://api.daily.dev/devcards/798fbc73b83d471c8d44451d5f01d756.png?r=iq6" width="250" align="right" alt="Mohammad Munshi's Dev Card"/></a>
 </table>
-
-
 
 #### Github Stats: 
 
