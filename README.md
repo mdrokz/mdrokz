@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <div>⚡My gists - https://gist.github.com/mdrokz
 
-<div>💬 Ask me about Rust,Reverse Engineering,Game Development & DevOps</div>
+<div>💬 Ask me about Rust, Reverse Engineering, Game Development & DevOps</div>
     
-<div>👯 I’m looking to collaborate on Game Jams,Open Source Projects & etc.</div>
+<div>👯 I’m looking to collaborate on Game Jams, Open Source Projects & etc.</div>
     
 ---
 
