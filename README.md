@@ -349,7 +349,14 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mdrokz&layout=compact&theme=radical" />
 </a>
 
+---
 
+<div align="center">
+    <p>
+        Profile Views
+    </p>
+    <img src="https://profile-counter.glitch.me/mdrokz/count.svg" />
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
