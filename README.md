@@ -350,6 +350,13 @@ Here are some ideas to get you started:
 </a>
 
 ---
+### Hacktoberfest: 
+
+<div align="center">
+    <a href="https://holopin.io/@mdrokz" target="_blank"><img src="https://holopin.me/mdrokz" width="100%"/></a>
+</div>
+
+---
 
 <div align="center">
     <p>
