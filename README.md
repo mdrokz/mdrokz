@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <div>💬 Ask me about Rust, Reverse Engineering, Game Development & DevOps</div>
     
 <div>👯 I’m looking to collaborate on Game Jams, Open Source Projects & etc.</div>
+
+<div>📖 Download my CV/Resume from here https://github.com/mdrokz/resume/releases/tag/0.1.2</div>
     
 ---
 
