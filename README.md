@@ -344,8 +344,8 @@ Here are some ideas to get you started:
 
 #### Github Stats: 
 
-<a href="https://github.com/mdrokz">
-    <img align="center" alt="mdrokz's Github Stats" src="https://github-readme-stats-bay-six-41.vercel.app/api?username=mdrokz&show_icons=true&hide_border=true&include_all_commits=true&theme=radical" />
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=tokyonight&preferLogin=false">   
+  <img align="center" alt="mdrokz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mdrokz?cardType=octocat&theme=tokyonight&preferLogin=false" /> 
 </a>
 
 <a href="https://github.com/mdrokz">
