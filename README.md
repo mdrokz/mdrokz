@@ -339,7 +339,7 @@ Here are some ideas to get you started:
     </a>
 </td> 
 </tr>
-<a href="https://app.daily.dev/mdrokz"><img src="https://api.daily.dev/devcards/798fbc73b83d471c8d44451d5f01d756.png?r=iq6" width="250" align="right" alt="Mohammad Munshi's Dev Card"/></a>
+<a href="https://app.daily.dev/mdrokz"><img src="https://api.daily.dev/devcards/v2/uiGtaFr9PzviqPFtsIWFo.png?type=default&r=a7p" width="280" align="right" alt="Mohammad Munshi's Dev Card"/></a>
 </table>
 
 #### Github Stats: 
